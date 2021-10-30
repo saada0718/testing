@@ -1,0 +1,37 @@
+{ 
+	"error": "",
+	"iTotalRecords": 5,
+	"iTotalDisplayRecords": 5,
+	"sEcho": 0,
+	"aaData": [
+					[ 
+			"<a href=\"https://www.metal-archives.com/bands/Megadeth/138\" title=\"Megadeth (US)\">Megadeth</a>",
+			"<a href=\"https://www.metal-archives.com/albums/Megadeth/Rust_in_Peace/593\">Rust in Peace</a> <!-- 1.6376748 -->" ,
+			"Full-length"      ,	
+			"September 24th, 1990 <!-- 1990-09-24 -->"     		]
+				,
+							[ 
+			"<a href=\"https://www.metal-archives.com/bands/Megadeth/138\" title=\"Megadeth (US)\">Megadeth</a>",
+			"<a href=\"https://www.metal-archives.com/albums/Megadeth/Rust_in_Peace_Live/277627\">Rust in Peace Live</a> <!-- 1.6376748 -->" ,
+			"Video"      ,	
+			"September 7th, 2010 <!-- 2010-09-07 -->"     		]
+				,
+							[ 
+			"<a href=\"https://www.metal-archives.com/bands/Algebra/3540306353\" title=\"Algebra (CH)\">Algebra</a>",
+			"<a href=\"https://www.metal-archives.com/albums/Algebra/Rust_in_Peace..._Polaris/635527\">Rust in Peace... Polaris</a> <!-- 1.4329655 -->" ,
+			"Single"      ,	
+			"March 1st, 2017 <!-- 2017-03-01 -->"     		]
+				,
+							[ 
+			"<a href=\"https://www.metal-archives.com/bands/Megadeth/138\" title=\"Megadeth (US)\">Megadeth</a>",
+			"<a href=\"https://www.metal-archives.com/albums/Megadeth/Countdown_to_Extinction_-_Rust_in_Peace/497889\">Countdown to Extinction / Rust in Peace</a> <!-- 1.2282561 -->" ,
+			"Compilation"      ,	
+			"December 12th, 2014 <!-- 2014-12-12 -->"     		]
+				,
+							[ 
+			"<a href=\"https://www.metal-archives.com/bands/Megadeth/138\" title=\"Megadeth (US)\">Megadeth</a>",
+			"<a href=\"https://www.metal-archives.com/albums/Megadeth/Rust_in_Peace_-_Countdown_to_Extinction/497886\">Rust in Peace / Countdown to Extinction</a> <!-- 1.2282561 -->" ,
+			"Compilation"      ,	
+			"June 25th, 2012 <!-- 2012-06-25 -->"     		]
+				]
+}
